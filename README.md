@@ -98,11 +98,11 @@
     <tr>
       <td align="center" width="300px">
         <a href="https://github.com/Mateus-dutravale/G2_CONSTRUTORA" target="_blank">
-          <img src="https://via.placeholder.com/260x130" width="260" height="130" alt="Sistema de Vistoria de Imóveis"/>
+          <img src="imgs/logo-civis.png" width="330" height="330" alt="Sistema de Vistoria de Imóveis"/>
           <br><br>
           <strong>📒 Sistema de Vistoria de Imóveis</strong>
           <br>
-          <sub>Node.js | Express | PostgreSQL</sub>
+          <sub>Node.js | REACT | PostgreSQL | HTML | CSS | JavaScript</sub>
           <br><br>
           🔗 Clique aqui para ir pro repositório
         </a>
@@ -110,11 +110,11 @@
 
   <td align="center" width="300px">
         <a href="https://github.com/Mateus-dutravale/support-platform-for-the-elderly" target="_blank">
-          <img src="https://via.placeholder.com/260x130" width="260" height="130" alt="Plataforma de Apoio à Saúde"/>
+          <img src="imgs/logo-SIDOS.jpg" width="330" height="330" alt="Plataforma de Apoio à Saúde"/>
           <br><br>
           <strong>🏥 Plataforma de Apoio à Saúde</strong>
           <br>
-          <sub>HTML | CSS | JavaScript</sub>
+          <sub>HTML | CSS | JavaScript | MongoDB</sub>
           <br><br>
           🔗 Clique aqui para ir pro repositório
         </a>
@@ -126,21 +126,20 @@
 ---
 ## 📊 Estatísticas do GitHub
 
-[![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-dutravale&theme=github_dark)](https://github.com/Mateus-dutravale)
-
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus-dutravale&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-
----
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Mateus-dutravale">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-dutravale&theme=github_dark" />
+        </a>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus-dutravale&theme=dark" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
   <!-- FINAL -->
