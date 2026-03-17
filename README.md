@@ -86,10 +86,8 @@
   <!-- CONTATOS -->
 ---
 # Contatos
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
+  <a href = "mailto:mateus.dutra.vale.dv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mateus-dutra-vale-554b2a217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
 
   <!-- PROJETOS -->
 ---
@@ -99,31 +97,27 @@
   <table>
     <tr>
       <td align="center" width="300px">
-        <a href="">
-          <img src=""/>
-          </a>
+        <a href="https://github.com/Mateus-dutravale/G2_CONSTRUTORA" target="_blank">
+          <img src="https://via.placeholder.com/260x130" width="260" height="130" alt="Sistema de Vistoria de Imóveis"/>
+          <br><br>
+          <strong>📒 Sistema de Vistoria de Imóveis</strong>
           <br>
-          <img  src="" width="260" height="130" />
-          <a href="">
-         <p> Clique aqui para ir pro repositório </p>
-          <strong>📒 titulo</strong>
-          <br>
-          <sub> ferramentas </sub>
+          <sub>Node.js | Express | PostgreSQL</sub>
+          <br><br>
+          🔗 Clique aqui para ir pro repositório
         </a>
       </td>
 
   <td align="center" width="300px">
-        <a href="">
-          <img src=""/>
+        <a href="https://github.com/Mateus-dutravale/support-platform-for-the-elderly" target="_blank">
+          <img src="https://via.placeholder.com/260x130" width="260" height="130" alt="Plataforma de Apoio à Saúde"/>
+          <br><br>
+          <strong>🏥 Plataforma de Apoio à Saúde</strong>
           <br>
+          <sub>HTML | CSS | JavaScript</sub>
+          <br><br>
+          🔗 Clique aqui para ir pro repositório
         </a>
-         <img  src="" width="260"  height="130" />
-        <a href="">
-          <p> Clique aqui para ir pro repositório </p>
-          <strong>📝 titulo</strong>
-          <br>
-          <sub> ferramentas</sub>
-          </a>
       </td>
   </table>
 </div>
@@ -146,18 +140,6 @@
 
 ---
 
-## 📊 Atividade no GitHub
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Mateus-dutravale/Mateus-dutravale/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Mateus-dutravale/Mateus-dutravale/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Mateus-dutravale/Mateus-dutravale/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ---
