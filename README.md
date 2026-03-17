@@ -131,11 +131,17 @@
     <tr>
       <td>
         <a href="https://github.com/Mateus-dutravale">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-dutravale&theme=github_dark" />
+          <img 
+            src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-dutravale&theme=github_dark"
+            width="600"
+          />
         </a>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus-dutravale&theme=dark" />
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mateus-dutravale&theme=dark"
+          width="300"
+        />
       </td>
     </tr>
   </table>
