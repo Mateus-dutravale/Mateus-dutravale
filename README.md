@@ -133,7 +133,7 @@
         <a href="https://github.com/Mateus-dutravale">
           <img 
             src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mateus-dutravale&theme=github_dark"
-            width="600"
+            width="400"
           />
         </a>
       </td>
